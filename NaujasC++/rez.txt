@@ -1,0 +1,18 @@
+Alus                   25     1.250   31.2500
+Duona                   2     0.580    1.1600
+Sakdaubuau              8     4.780   38.2400
+Agurkai                 7     1.000    7.0000
+Lasiniai                3     6.990   20.9700
+  98.62000
+ surikiuotas 
+Duona                   2     0.580    1.1600
+Agurkai                 7     1.000    7.0000
+Alus                   25     1.250   31.2500
+Sakdaubuau              8     4.780   38.2400
+Lasiniai                3     6.990   20.9700
+  98.62000
+ brangus 
+Alus                   25     1.250   31.2500
+Sakdaubuau              8     4.780   38.2400
+Lasiniai                3     6.990   20.9700
+  98.62000
